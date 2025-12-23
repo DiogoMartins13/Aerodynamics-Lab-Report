@@ -1,5 +1,7 @@
-# Aerodynamics-Lab-Report \n
-This project was realised by: \n
+# Aerodynamics-Lab-Report
+
+This project was realised by:
+
 Diogo Rebelo Luzio de Oliveira Martins - 301549
 Gabriele Pagnoni - 299997
 Riccardo Rossetti - 301315
